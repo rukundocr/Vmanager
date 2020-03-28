@@ -1,6 +1,6 @@
 # vcustomerss
 
-> simple customer manager 
+> simple covid tracker app build on top of vuejs  
 
 ## Build Setup
 
